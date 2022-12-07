@@ -1,0 +1,10 @@
+go 1.19
+
+use ./getdata
+use ./day_01
+use ./day_02
+use ./day_03
+use ./day_04
+use ./day_05
+use ./day_06
+use ./test
