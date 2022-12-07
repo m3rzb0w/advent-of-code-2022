@@ -8,4 +8,4 @@
 - [Day-04](/../../tree/main/day_04)
 - [Day-05](/../../tree/main/day_05)
 - [Day-06](/../../tree/main/day_06)
-- [Day-06](/../../tree/main/day_07)
+- [Day-07](/../../tree/main/day_07)
