@@ -13,3 +13,5 @@
 - [Day-09](/../../tree/main/day_09)
 - [Day-10](/../../tree/main/day_10)
 - [Day-11](/../../tree/main/day_11)
+- [Day-12](/../../tree/main/day_12)
+- [Day-13](/../../tree/main/day_13)
